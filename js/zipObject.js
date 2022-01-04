@@ -10,3 +10,4 @@ const zipObject = (props = [], values) => {
 };
 
 console.log(zipObject(["a", "b"], [1, 2]));
+ddd;
